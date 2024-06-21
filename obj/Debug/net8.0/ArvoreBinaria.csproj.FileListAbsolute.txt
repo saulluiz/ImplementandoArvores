@@ -1,0 +1,14 @@
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\bin\Debug\net8.0\ArvoreBinaria.exe
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\bin\Debug\net8.0\ArvoreBinaria.deps.json
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\bin\Debug\net8.0\ArvoreBinaria.runtimeconfig.json
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\bin\Debug\net8.0\ArvoreBinaria.dll
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\bin\Debug\net8.0\ArvoreBinaria.pdb
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ArvoreBinaria.AssemblyInfo.cs
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ArvoreBinaria.dll
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\refint\ArvoreBinaria.dll
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ArvoreBinaria.pdb
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ArvoreBinaria.genruntimeconfig.cache
+C:\Saulo\Dev\ProjetosUtilizadosParaEstudos\EstruturaDeDados\ArvoreBinaria\obj\Debug\net8.0\ref\ArvoreBinaria.dll
